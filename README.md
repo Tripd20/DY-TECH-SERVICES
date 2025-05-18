@@ -9,7 +9,7 @@ Welcome to my personal web design and services website — a responsive, modern 
   - Web Design
   - Web Management
   - Consultation
-- **About Me Section** with profile image and description
+- **About Me Section**  and description
 - **Contact Form** with redirect to Calendly for booking consultations
 - **Testimonials Section** with images
 - **Responsive Design** using Bootstrap grid system
